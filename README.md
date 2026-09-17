@@ -1,6 +1,6 @@
 # The Battery
 
-A **format-coverage test album** for audio players and library apps (e.g. [TuneOut](https://github.com/Geigle/TuneOut), RockBox).
+A **format-coverage test album** for audio players and library apps.
 
 One ~120-second clip per common **music** codec/container that RockBox-class players may encounter. Files are tagged with album **The Battery** so a library scan groups them together.
 
@@ -65,6 +65,6 @@ https://creativecommons.org/licenses/by/4.0/
 
 (Replace the title for each track you ship or demo.) Full per-track credits: [ATTRIBUTION.md](ATTRIBUTION.md).
 
-## Using with TuneOut / a simulator
+## Using with music apps / a simulator
 
 Point a library root at `audio/`, or copy the folder into the app’s Documents / Music tree, then rescan.
