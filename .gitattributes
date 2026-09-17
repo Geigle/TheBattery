@@ -1,0 +1,18 @@
+# Treat audio as binary
+audio/** binary
+*.mp3 binary
+*.m4a binary
+*.flac binary
+*.wav binary
+*.aiff binary
+*.ogg binary
+*.oga binary
+*.opus binary
+*.wma binary
+*.wv binary
+*.spx binary
+*.tta binary
+*.mp2 binary
+*.w64 binary
+*.au binary
+*.aac binary
